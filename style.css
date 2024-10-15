@@ -120,7 +120,7 @@ button:hover {
   .card-container {
     display: flex;
     flex-direction: column;
-    max-width: 21.8rem;
+    max-width: 80%;
     width: 100%;
   }
   .img-section img {
@@ -129,7 +129,7 @@ button:hover {
     object-fit: cover;
   }
   .content-section {
-    max-width: 21.8rem;
+    max-width: 100%;
     width: 100%;
   }
   .desktop-img {
