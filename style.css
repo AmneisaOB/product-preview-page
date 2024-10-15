@@ -116,7 +116,7 @@ button:hover {
   background-color: var(--Very-dark-blue);
 }
 
-@media (max-width: 376px) {
+@media (max-width: 768px) {
   .card-container {
     display: flex;
     flex-direction: column;
